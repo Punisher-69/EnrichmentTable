@@ -1,11 +1,12 @@
-import MainPage from "./Components/ButtonGroup";
+// import MainPage from "./Components/ButtonGroup";
 
 // import UseRed from "./Components/UseReducer";
+import TipTapMenu from "./Components/SlateMenu";
+
 function App() {
   return (
     <>
-      <MainPage />
-      {/* <UseRed /> */}
+     <TipTapMenu />
     </>
   );
 }
